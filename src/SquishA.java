@@ -2,7 +2,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class SquishTest {
+public class SquishA {
 	public static void main(String[] args) throws IOException {
 		double[] inputArray = { -1337.1337, -10.5, -5.5, -1.5, -1, -0.3, -0.113, 0, 0.31,
 				0.76, 1.3, 1.99, 7.4, 160, 1337 };
